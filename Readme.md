@@ -1,7 +1,7 @@
- Git Calculadora
+# Calculadora
 
 
-Calculadora simples com Flutter e Dart             
+Calculadora simples tipo IOS com Flutter e Dart             
                
      
 
